@@ -1,5 +1,5 @@
 
-# Pokémon Application
+# Pokemon Application
 
 A Pokémon application that displays detailed Pokémon information, including their stats, abilities, and types. The app also shows similar Pokémon based on their types.
 
